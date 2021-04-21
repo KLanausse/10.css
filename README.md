@@ -5,8 +5,8 @@
 
 ![A screenshot of a window with the title 'My First Program' and two buttons OK and Cancel, styled like a Windows 7 dialog](/docs/window.png)
 
-**7.css** is a tiny CSS framework that takes semantic HTML and styles them to the Windows 7 design.
-It is built on top of [XP.css](https://github.com/botoxparty/XP.css), which is an extension of [98.CSS](https://github.com/jdan/98.css).
+**10.css** is a tiny CSS framework that takes semantic HTML and styles them to the Windows 10 design.
+It is built on top of [7.css](https://github.com/khang-nd/7.css), which is an extension of [XP.css](https://github.com/botoxparty/XP.css), which is an extension of [98.CSS](https://github.com/jdan/98.css).
 
 It does not ship with any JavaScript, so it is compatible with your frontend framework of choice.
 
