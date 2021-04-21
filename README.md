@@ -1,5 +1,6 @@
-# 7.css
+# 10.css
 
+These are the 7.css links
 [![npm](https://img.shields.io/npm/v/7.css)](http://npm.im/7.css)
 [![gzip size](https://img.shields.io/bundlephobia/minzip/7.css)](https://unpkg.com/7.css)
 
@@ -12,7 +13,7 @@ It does not ship with any JavaScript, so it is compatible with your frontend fra
 
 ## Installation / Usage
 
-The easiest way to use 7.css is to import it from [unpkg](https://unpkg.com/).
+The easiest way to use 10.css is to import it from [unpkg](https://unpkg.com/).
 
 ```html
 <!DOCTYPE html>
@@ -36,23 +37,23 @@ The easiest way to use 7.css is to import it from [unpkg](https://unpkg.com/).
 </html>
 ```
 
-Alternatively, you can grab 7.css from [npm](https://www.npmjs.com/package/7.css).
+Alternatively, you can grab 10.css from [npm](https://www.npmjs.com/package/).
 
-`npm install 7.css`
+`npm install 10.css`
 
 Usage:
 
 ```javascript
-import "7.css/dist/7.css";
+import "10.css/dist/10.css";
 ```
 
-Refer to the [documentation page](https://khang-nd.github.io/7.css/) for specific instructions on this framework's components.
+Refer to the [documentation page](https://klanausse.github.io/10.css/) for specific instructions on this framework's components.
 
 ## Developing
 
 Clone the repo and run `npm install`.
 
-The core styles are managed in [`gui`](https://github.com/khang-nd/7.css/tree/main/gui).
+The core styles are managed in [`gui`](https://github.com/KLanausse/10.css/tree/main/gui).
 
 You can use `npm start` to start a development environment that will watch for file changes and rebuild the files, reloading your browser in the process.
 
@@ -64,7 +65,7 @@ You are so welcome to report issues, help out with contributions or whatever you
 
 ## License
 
-[MIT](https://github.com/khang-nd/7.css/blob/main/LICENSE)
+[MIT](https://github.com/KLanausse/10.css/blob/main/LICENSE)
 
 ## Changelog
 
